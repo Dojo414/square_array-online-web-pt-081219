@@ -3,6 +3,6 @@ def square_array(array)
     new_array = []
     square = number * number
     new_array.push (number)
-    return new_array
+    new_array
   end
 end
