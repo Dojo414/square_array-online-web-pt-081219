@@ -5,5 +5,6 @@ def square_array(array)
     new_array.push (square)
     if new_array.length == array.length
       return new_array
+    end
   end
 end
